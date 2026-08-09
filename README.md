@@ -14,7 +14,7 @@ Estudo de caso GourmetBox: investigação do "Efeito Fancy". Análise de dados u
 * **Linguagem & Manipulação de Dados:** Python e Pandas (Análise, tratamento e merge das bases no Google Colab)
 * **Dashboard Interativo:** Streamlit e Plotly
 * **Deploy e Hospedagem:** GitHub e Streamlit Community Cloud
-* **Apoio ao Desenvolvimento:** IA Generativa (Gemini/ChatGPT) utilizada para auxílio no raciocínio lógico, criação da estrutura do Dashboard e deploy da aplicação.
+* **Apoio ao Desenvolvimento:** IA Generativa (Gemini) utilizada para auxílio na criação da estrutura do Dashboard e deploy da aplicação.
 
 ---
 
