@@ -6,7 +6,7 @@ Estudo de caso GourmetBox: investigação do "Efeito Fancy". Análise de dados u
 ---
 
 ## 🚀 Acesse a Aplicação
-👉 **[Clique aqui para navegar no Dashboard Interativo]([(https://estudodecaso-efeitofancy-22ndwiuvnzykyd8hqfreyt.streamlit.app/))**
+👉 **[Clique aqui para navegar no Dashboard Interativo](https://estudodecaso-efeitofancy-22ndwiuvnzykyd8hqfreyt.streamlit.app/)**
 
 ---
 
