@@ -10,11 +10,11 @@ Estudo de caso GourmetBox: investigação do "Efeito Fancy". Análise de dados u
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-* **Linguagem:** Python 3.x
-* **Manipulação e Engenharia de Dados:** Pandas
-* **Dashboard Interativo & Deploy:** Streamlit, Plotly
-* **Análise Exploratória & Gráficos:** Seaborn, Matplotlib
+## 🛠️ Tecnologias & Ferramentas Utilizadas
+* **Linguagem & Manipulação de Dados:** Python e Pandas (Análise, tratamento e merge das bases no Google Colab)
+* **Dashboard Interativo:** Streamlit e Plotly
+* **Deploy e Hospedagem:** GitHub e Streamlit Community Cloud
+* **Apoio ao Desenvolvimento:** IA Generativa (Gemini/ChatGPT) utilizada para auxílio no raciocínio lógico, criação da estrutura do Dashboard e deploy da aplicação.
 
 ---
 
@@ -37,5 +37,5 @@ A análise unificada provou matematicamente a existência do fenômeno:
 ## 📁 Estrutura do Repositório
 * `efeito_fancy_app.py`: Código-fonte da aplicação interativa desenvolvida em Streamlit.
 * `Dados completos-2.csv`: Dataset unificado contendo as métricas calculadas.
-* `notebook_analise.ipynb`: Notebook com a etapa de merge das bases e feature engineering.
+* `notebook_analise.ipynb`: Notebook com a etapa de merge das bases e feature engineering via Python/Pandas.
 * `requirements.txt`: Dependências do projeto para execução na nuvem.
